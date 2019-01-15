@@ -1,0 +1,18 @@
+.main-font {
+  font-family: Arial;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.header {
+  width: 100%;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.center {
+  text-align: center;
+}
