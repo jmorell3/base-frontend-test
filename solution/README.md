@@ -3,7 +3,7 @@
 ## How to run your solution
 
 To run the provided solution:
-1) First of all download the provided server. After some testing it seems that the last version has wildcards for some CORS params that are misbehaving. However, using the previous version of the server with Firefox is working properly.
+1) First of all download the provided server. After some testing it seems that the latest version has wildcards for some CORS params that are misbehaving. However, using the previous version of the server with Firefox is working properly.
 2) Start the server.
 3) Next step is to install the last versions of Node.js and npm.
 4) Run npm install and npm start from inside the project.
